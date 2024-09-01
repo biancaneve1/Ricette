@@ -1,0 +1,150 @@
+body {
+    background: linear-gradient(rgb(80, 39, 20) ,#32254e, white, #a1a5d4);
+    color: rgb(24, 25, 26);
+
+    font-family: "Quicksand", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: weight;
+    font-style: normal;
+}
+
+
+a {
+
+    
+    text-decoration: none;
+    margin-left: 40px;
+    color: rgb(40, 9, 87);
+
+}
+
+
+nav{
+
+    margin-top: 30px;
+}
+
+
+img {
+    border: 15px solid transparent;
+    box-shadow: 2px 15px 15px rgba(14, 13, 13, 0.3), 0px -4px 10px rgba(255, 255, 255, 0.3);
+    border-radius: 40px;
+
+}
+
+article {
+    width: 600px;
+    font-size: 22px;
+    margin-left: 100px;
+    font-family: "Times New Roman", Times, serif;
+}
+
+footer {
+
+    background-color: rgb(108, 120, 128);
+    color: white;
+    height: 150px;
+
+}
+
+p {
+    text-align: center;
+}
+
+
+.placeholder {
+    font-family: "Poppins", sans-serif;
+    font-weight: 100;
+    font-style: oblique;
+    margin-left: 350px;
+    margin-top: 50px;
+
+}
+
+
+.section {
+
+    display: flex;
+    flex-direction: row;
+}
+
+
+#titolo {
+    
+    font-family: "Briem Hand", cursive;
+    font-optical-sizing: auto;
+    font-weight: weight;
+    font-style: normal;
+    font-size: 140PX;
+    color: rgb(98, 134, 98);
+}
+
+#immagine1 {
+
+    width: 70%;
+
+    margin-left: 15%;
+    border: none;
+
+
+    box-shadow: 2px 15px 15px rgba(14, 13, 13, 0.3);
+    border-radius: 50%;
+}
+
+#main {
+
+    margin-top: 200px;
+}
+
+h2 {
+    font-size: 80px;
+}
+
+h3 {
+    font-size: 30px;
+}
+
+h3,
+h2,
+h1 {
+
+    margin-top: 100px;
+    color: white;
+    text-align: center;
+    text-shadow: 2px 7px 5px rgba(0, 0, 0, 0.3), 0px -4px 10px rgba(255, 255, 255, 0.3);
+
+}
+
+button{
+
+    width: 200px;
+    height: 50px;
+    background-color: rgb(129, 119, 177);
+    color: white;
+    font-weight: 700;
+    border-radius: 20px;
+    border:5px solid rgb(114, 99, 180);
+    align-items: center;
+    margin-left: 43%;
+    margin-top: 30px;
+}
+
+
+aside{
+
+  margin:  70px;
+}
+
+h3:hover {
+    color: transparent;
+
+}
+
+article:hover {
+    color: rgb(236, 233, 240);
+    ;
+
+
+}
+
+
